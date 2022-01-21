@@ -1,4 +1,4 @@
-# 12WeeksOfNLPLearning
+# 12 Weeks Of NLP Learning
 This repo is to keep track of my learnings that I plan on doing for 12 weeks to study **Natural Language Processing (NLP).**
 I will be going thru and updating this on weekly basis.
 
