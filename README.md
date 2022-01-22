@@ -2,6 +2,8 @@
 This repo is to keep track of my learnings that I plan on doing for 12 weeks to study **Natural Language Processing (NLP).**
 I will be going thru and updating this on weekly basis.
 
+![NLP](https://user-images.githubusercontent.com/37938955/150614844-aa9a3baa-61ca-4e01-8af6-95ee8dfd4bec.png)
+
 ## Week One of #12WeeksOfNLPLearning
 1. Completed Lecture 1 of the [Stanford NLP playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 
