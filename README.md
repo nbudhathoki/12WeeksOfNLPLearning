@@ -1,6 +1,6 @@
 # 12 Weeks Of NLP Learning
 This repo is to keep track of my learnings that I plan on doing for 12 weeks to study **Natural Language Processing (NLP).**
-I will be going thru and updating this on weekly basis. Updates will be pushed either Fridays or Weekends of the week.
+I will be going thru and updating this on weekly basis. Updates will be pushed either *Fridays or Weekends*.
 
 ![NLP](https://user-images.githubusercontent.com/37938955/150614844-aa9a3baa-61ca-4e01-8af6-95ee8dfd4bec.png)
 
