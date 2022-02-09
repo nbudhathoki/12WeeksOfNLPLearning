@@ -16,4 +16,4 @@ I will be going thru and updating this on weekly basis. Updates will be pushed e
 
 2. Completed studying about Content Based Recommendation systems, and how NLP can be used to create feature embeddings [Article for reference](https://towardsdatascience.com/content-based-recommender-systems-28a1dbd858f5) 
 
-3. Completed one [kaggle notebook](https://towardsdatascience.com/content-based-recommender-systems-28a1dbd858f5) 
+3. Completed one [kaggle notebook](https://www.kaggle.com/nickbudha/nirmal-movie-recommendation-system?scriptVersionId=87347292) 
