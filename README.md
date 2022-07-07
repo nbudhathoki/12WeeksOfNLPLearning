@@ -20,7 +20,7 @@ I will be going thru and updating this on weekly basis. Updates will be pushed e
 
 ## Week Three of #12WeeksOfNLPLearning
 I took a break in-between because of my current work transition. Getting back to my journey of learning NLP.
-1. Completed Chapters 1 and 2 of the book: [Practical Natural Language Processing] (https://www.oreilly.com/library/view/practical-natural-language/9781492054047/) 
+1. Completed Chapters 1 and 2 of the book: [Practical Natural Language Processing](https://www.oreilly.com/library/view/practical-natural-language/9781492054047/) 
 
 2. When we don't have enough data- how to synthesize meaningful data for training- Some data augmentation techniques are: 
  - Synonym Replacement: Randomly chose 'K' words in sentence (make sure they are not stop words), and replace them with synonyms. 
